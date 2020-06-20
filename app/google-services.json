@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "225102593930",
+    "firebase_url": "https://huduma-2f263.firebaseio.com",
+    "project_id": "huduma-2f263",
+    "storage_bucket": "huduma-2f263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225102593930:android:461be2b576ae410d",
+        "android_client_info": {
+          "package_name": "com.example.franklin.hudumu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225102593930-2l08g2vptu8p6pn0q752p7mkqksj3bm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9GaFqS_igkumhHFUAlZJvzMHOg3JMRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

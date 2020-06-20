@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5fb0c9"
+    android:orientation="vertical"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    tools:context=".authentication.ClientProfile">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:background="#fff"
+        android:elevation="4dp"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <LinearLayout
+            android:id="@+id/layoutProfile"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="70dp"
+            android:orientation="vertical">
+
+            <!--<com.mikhaellopez.circularimageview.CircularImageView
+                android:id="@+id/imageProfile"
+                android:layout_width="180dp"
+                android:layout_height="120dp"
+                android:layout_gravity="center"
+                app:civ_border_color="#EEEEEE"
+                app:civ_border_width="4dp"
+                app:civ_shadow="true"
+                app:civ_shadow_color="#8BC34A"
+                app:civ_shadow_radius="5">
+
+            </com.mikhaellopez.circularimageview.CircularImageView>
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/imageProfile"
+                android:layout_below="@id/imageProfile"
+                android:layout_gravity="center"
+                android:background="#d67601"
+                android:textColor="#fff"
+                android:text="Upload Photo" />-->
+
+            <EditText
+                android:id="@+id/editText18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:ems="10"
+                android:hint="@string/client_name"
+                android:inputType="textPersonName"
+                android:singleLine="true"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText20"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/client_estate"
+                android:inputType="textPhonetic"
+                android:singleLine="true"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText21"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/client_house_no"
+                android:inputType="textPersonName"
+                android:singleLine="true"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText24"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/client_contacts"
+                android:inputType="number"
+                android:singleLine="true"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="#d67601"
+                android:textColor="#fff"
+                android:layout_marginTop="10dp"
+                android:text="@string/update" />
+
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>
+

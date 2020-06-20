@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Huduma</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Huduma</string>
+    <string name="nav_header_subtitle">Your errands our concern!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="service_name">Name</string>
+    <string name="service_type">Service type</string>
+    <string name="service_charge">Service charge</string>
+    <string name="request_service">Request service</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!--Main continuation-->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_huduma">LOG IN</string>
+    <string name="sign_up">Don\'t have an account? Sign up here !</string>
+    <string name="login_title">Account Login</string>
+    <string name="user_name">Name</string>
+    <string name="create_email">Email</string>
+    <string name="create_password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up_new_account">Sign Up</string>
+    <string name="create_account_heading">Create Account</string>
+    <string name="account_ready_login">Already have an account? Login</string>
+    <string name="log_out_menu">Logout</string>
+    <string name="update">Update</string>
+    <string name="your_order">Car Wash Order</string>
+    <string name="category">Category</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="vehicle_price">Price</string>
+    <string name="order_car_wash">Request</string>
+    <string name="pizza_size">Size</string>
+    <string name="pizza_type">Pizza Type</string>
+    <string name="pizza_order">Pizza Order</string>
+    <string name="pizza_request">Request</string>
+    <string name="catering_order">Catering Order</string>
+    <string name="catering_request">Request</string>
+    <string name="category_type">Type</string>
+
+    <string name="contact_friendly">Contact Us! We are friendly!</string>
+
+    <!--Profile Section-->
+    <string name="client_name">Name</string>
+    <string name="client_contacts">Contact</string>
+    <string name="client_estate">Estate</string>
+    <string name="client_house_no">House No</string>
+    <string name="client_monthly">Monthly service</string>
+    <string name="client_two_weeks">Two weeks service</string>
+    <string name="client_submit_button">Submit</string>
+
+    <!--Pizza Tabbed Layout-->
+    <string name="title_activity_pizza">Pizza</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_classic">Classic Pizzas</string>
+    <string name="tab_text_favourite">Favourite Pizzas</string>
+    <string name="tab_text_ultimate">Ultimate Pizzas</string>
+    <string name="tab_text_pizza_order">Pizza Order</string>
+
+    <!--Catering Tabbed Layout-->
+    <string name="title_activity_catering">Catering</string>
+    <string name="tab_text_dessert">Dessert</string>
+    <string name="tab_text_eatouts">Eat outs</string>
+    <string name="tab_text_drinks">Drinks</string>
+    <string name="tab_text_catering_order">Catering Order</string>
+
+    <!--Market Tabbed Layout-->
+    <string name="title_activity_market">Market</string>
+    <string name="tab_text_vegetables">Vegetables</string>
+    <string name="tab_text_fruits">Fruits</string>
+    <string name="tab_text_market_order">Market Orders</string>
+
+    <string name="add_cart">Add to Cart</string>
+
+    <!--Car wash-->
+    <string name="hand_wash">100% Hand Wash</string>
+    <string name="title_activity_car_washing">CarWashing</string>
+    <string name="tab_text_super_wash">Super Wash</string>
+    <string name="tab_text_deluxe_wash">Deluxe Wash</string>
+    <string name="tab_text_luxury_wash">Luxury Wash</string>
+    <string name="tab_text_vip_wash">VIP Wash</string>
+    <string name="tab_text_car_wash_order">Car Wash Order</string>
+
+
+    <!--Sample-->
+    <string name="history">Order History</string>
+    <string name="about">About Us</string>
+    <string name="contact">Contact Us</string>
+    <string name="feedback">Feedback</string>
+    <string name="rs">\u20B9</string>
+    <string name="spinner_title">Choose Location</string>
+
+    <!--Sample2-->
+    <string name="android_pay">Android Pay. Simple way to pay</string>
+
+    <string name="add_to_cart">ADD TO CART</string>
+
+    <string name="description_example">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</string>
+
+    <string name="product_size">Size: 40</string>
+
+    <string name="product_color">Color: Black</string>
+
+    <string name="product_price">Price: 80$</string>
+
+    <string name="action_cart">Shopping cart</string>
+
+    <string name="quantity">1</string>
+
+    <string name="product_name">Sleek black top</string>
+
+    <string name="price">100 $</string>
+
+    <string name="remove_from_cart">Remove</string>
+
+    <string name="continue_shopping">Continue shopping</string>
+
+    <string name="checkout">Checkout</string>
+
+    <string name="sub_total">Sub total:</string>
+
+    <string name="server_error">Failed to payment information to server</string>
+
+    <string name="successful_payment">Payment successfully uploaded</string>
+
+    <string name="pay_with_paypal">Pay with PayPal</string>
+
+</resources>

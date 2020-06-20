@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewPizzaType"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageViewPizza"
+        android:textColor="@android:color/holo_green_dark"
+        android:layout_margin="8dp"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textViewPizzaSize"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewPizzaType"
+        android:textColor="#000"
+        android:layout_margin="8dp"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textViewPizzaPrice"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewPizzaSize"
+        android:textColor="@android:color/holo_red_dark"
+        android:layout_margin="8dp"
+        android:textSize="16sp" />
+
+
+</RelativeLayout>
